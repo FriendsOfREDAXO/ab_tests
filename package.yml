@@ -1,5 +1,5 @@
 package: ab_tests
-version: "1.6.0"
+version: "1.6.1"
 name: A/B Tests
 author: Friends Of REDAXO
 supportpage: https://github.com/FriendsOfREDAXO/ab_tests
