@@ -1,0 +1,53 @@
+navigation_ab_tests_addon = A/B Tests
+
+ab_tests_title = A/B Tests
+ab_tests_description = Einfache A/B Tests für Artikel ohne URL-Parameter
+ab_tests_save = Speichern
+ab_tests_info = Info
+ab_tests_changelog = Changelog
+ab_tests_license = Lizenz
+
+ab_tests_content = A/B Tests
+ab_tests_content_variant = A/B Test Variante
+ab_tests_content_variant_help = Wählen Sie die B-Variante für diesen A/B Test
+
+ab_tests_overview = Test Übersicht
+ab_tests_stats = Statistiken
+ab_tests_settings = Einstellungen
+
+ab_tests_create_test = Neuen Test erstellen
+ab_tests_edit_test = Test bearbeiten
+ab_tests_delete_test = Test löschen
+ab_tests_test_name = Test Name
+ab_tests_original_article = Original Artikel
+ab_tests_variant_article = Varianten Artikel
+ab_tests_test_active = Test aktiv
+ab_tests_test_inactive = Test inaktiv
+ab_tests_created_at = Erstellt am
+ab_tests_actions = Aktionen
+
+ab_tests_stats_title = A/B Test Statistiken
+ab_tests_stats_views = Aufrufe
+ab_tests_stats_clicks = Klicks
+ab_tests_stats_conversions = Conversions
+ab_tests_stats_conversion_rate = Conversion Rate
+ab_tests_stats_winner = Gewinner
+ab_tests_stats_original = Original
+ab_tests_stats_variant = Variante
+ab_tests_stats_date_range = Zeitraum
+ab_tests_stats_export = Daten exportieren
+
+ab_tests_settings_title = A/B Test Einstellungen
+ab_tests_settings_tracking = Tracking Einstellungen
+ab_tests_settings_analytics = Analytics Integration
+ab_tests_settings_data_retention = Daten-Aufbewahrung
+ab_tests_settings_save = Einstellungen speichern
+
+ab_tests_msg_test_created = Test wurde erfolgreich erstellt
+ab_tests_msg_test_updated = Test wurde erfolgreich aktualisiert
+ab_tests_msg_test_deleted = Test wurde erfolgreich gelöscht
+ab_tests_msg_settings_saved = Einstellungen wurden gespeichert
+
+ab_tests_error_no_article = Bitte wählen Sie einen Artikel aus
+ab_tests_error_same_article = Original und Variante müssen unterschiedliche Artikel sein
+ab_tests_error_test_not_found = Test wurde nicht gefunden

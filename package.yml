@@ -1,0 +1,41 @@
+package: ab_tests
+version: "1.6.0"
+name: A/B Tests
+author: Friends Of REDAXO
+supportpage: https://github.com/FriendsOfREDAXO/ab_tests
+compile: 0
+load: early
+
+page:
+  title: translate:ab_tests_title
+  icon: rex-icon fa-flask
+  perm: ab_test[]
+  subpages:    
+    tests:
+      title: translate:ab_tests_overview
+      icon: rex-icon fa-chart-line
+    stats:
+      title: translate:ab_tests_stats
+      icon: rex-icon fa-chart-bar
+    settings:
+      title: translate:ab_tests_settings
+      icon: rex-icon fa-cogs
+    info:
+      title: translate:ab_tests_info
+      itemclass: pull-right
+      subpages:
+        readme:
+          title: translate:ab_tests_info
+          subPath: README.md
+        changelog:
+          title: translate:ab_tests_changelog
+          subPath: CHANGELOG.md
+        license:
+          title: translate:ab_tests_license
+          subPath: LICENSE.md          
+
+requires:
+  redaxo: '^5.15'
+  metainfo: '^2.8'
+  php:
+    version: "^8.3"
