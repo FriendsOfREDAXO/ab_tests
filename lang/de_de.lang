@@ -4,6 +4,8 @@ ab_tests_title = A/B Tests
 ab_tests_description = Einfache A/B Tests für Artikel ohne URL-Parameter
 ab_tests_save = Speichern
 ab_tests_info = Info
+ab_tests_user_guide = Nutzeranleitung
+ab_tests_presentation = Präsentation
 ab_tests_changelog = Changelog
 ab_tests_license = Lizenz
 

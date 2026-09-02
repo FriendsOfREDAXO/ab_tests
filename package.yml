@@ -1,5 +1,5 @@
 package: ab_tests
-version: "1.6.1"
+version: "1.6.2"
 name: A/B Tests
 author: Friends Of REDAXO
 supportpage: https://github.com/FriendsOfREDAXO/ab_tests
@@ -27,6 +27,12 @@ page:
         readme:
           title: translate:ab_tests_info
           subPath: README.md
+        user_guide:
+          title: translate:ab_tests_user_guide
+          subPath: docs/NUTZERANLEITUNG.md
+        presentation:
+          title: translate:ab_tests_presentation
+          subPath: docs/PRAESENTATION.md
         changelog:
           title: translate:ab_tests_changelog
           subPath: CHANGELOG.md

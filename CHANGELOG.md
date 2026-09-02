@@ -5,6 +5,13 @@ Alle wichtigen Änderungen an diesem Projekt werden in dieser Datei dokumentiert
 Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/de/1.0.0/),
 und dieses Projekt folgt [Semantic Versioning](https://semver.org/).
 
+## [1.6.2] - 2026-09-02
+
+### Hinzugefügt
+- **Nutzeranleitung**: Schritt-für-Schritt-Anleitung für Vorbereitung, Anlage, Vorschau, Auswertung und Abschluss eines A/B-Tests ergänzt.
+- **Präsentation**: Präsentationsvorlage mit Sprecherhinweisen zur Funktionsweise und zum redaktionellen Einsatz ergänzt.
+- **Backend-Info**: Nutzeranleitung und Präsentation sind im AddOn unter `Info` direkt erreichbar.
+
 ## [1.6.0] - 2026-05-06
 
 ### Hinzugefuegt
